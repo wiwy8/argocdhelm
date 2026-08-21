@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:wiwy8/argocdhelm.git
+    repoURL: https://github.com/wiwy8/argocdhelm.git 
     path: charts/root-app/
     targetRevision: HEAD
   destination:
